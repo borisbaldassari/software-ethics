@@ -6,7 +6,7 @@ See also:
 
 * The [GitHub wiki](https://github.com/borisbaldassari/software-ethics/wiki)
 * The generated [GitHub web site](https://borisbaldassari.github.io/software-ethics/)
-* The [sources for the GitHub web site](docs/)
+* The [sources for the GitHub web site](https://github.com/borisbaldassari/software-ethics/tree/master/docs)
 
 ## What is this?
 
