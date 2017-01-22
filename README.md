@@ -3,6 +3,11 @@
 Discussing what ethics means in software.
 
 
+## How to contribute?
+
+Participation and collaboration is most welcome. The repository itself *is* the web site and [github markdown](https://guides.github.com/features/mastering-markdown/) should be used, since we're mostly dealing with text resources here.
+
+The **github wiki** is open and writable by anyone, and any substantial change on the website should be discussed there before being accepted as a pull request.
 
 
 ## Welcome to GitHub Pages
