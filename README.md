@@ -5,7 +5,7 @@ Discussing what ethics means in software.
 See also:
 
 * The [GitHub wiki](https://github.com/borisbaldassari/software-ethics/wiki)
-* The generated [GitHub web site](https://github.com/borisbaldassari/software-ethics/)
+* The generated [GitHub web site](https://borisbaldassari.github.io/software-ethics/)
 * The [sources for the GitHub web site](docs/)
 
 ## What is this?
