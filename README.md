@@ -2,6 +2,14 @@
 
 Discussing what ethics means in software.
 
+## What is this?
+
+This discussion started in November, 2016 with a [talk from Tobias Geyer](https://www.eclipsecon.org/europe2016/session/heres-why-you-should-care-about-ethics-software-development) at the Project Quality Day during the [Eclipse Conference Europe](https://www.eclipsecon.org/europe2016/). Ethics in software has many implications, from community to quality and privacy.
+
+Killer robots poses a distinct strain on developers' shoulders, by considering the human behind the code as enough human (i.e. responsible) to trigger automatic weapons. Autonomous cars, consequences of data breaches and all recent tragedies caused by software bugs highlight even more the importance of these concerns.
+
+Today we, as developers, have a humongous responsibility towards users, humans, and the future. This needs to be discussed and further considered.
+
 
 ## How to contribute?
 
