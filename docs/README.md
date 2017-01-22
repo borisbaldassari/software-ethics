@@ -5,8 +5,8 @@ Discussing what ethics means in software.
 See also:
 
 * The [GitHub wiki](https://github.com/borisbaldassari/software-ethics/wiki)
-* [References](references/) gathered on the topic
-* This attempt to summarise the [attributes of Ethics](manifesto/).
+* [References](References) gathered on the topic
+* This attempt to summarise the [attributes of Ethics](EthicsAttributes).
 
 ## What is this?
 
