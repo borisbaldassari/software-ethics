@@ -4,9 +4,9 @@ Discussing what ethics means in software.
 
 See also:
 
-* The [GitHub wiki](https://github.com/borisbaldassari/software-ethics/wiki)
-* The generated [GitHub web site](https://borisbaldassari.github.io/software-ethics/)
-* The [sources for the GitHub web site](https://github.com/borisbaldassari/software-ethics/tree/master/docs)
+* Participate to the [GitHub wiki](https://github.com/borisbaldassari/software-ethics/wiki)
+* See the generated [GitHub web site](https://borisbaldassari.github.io/software-ethics/)
+* The web site is generated from markdown files in the [docs/ folder of the repository](https://github.com/borisbaldassari/software-ethics/tree/master/docs).
 
 ## What is this?
 

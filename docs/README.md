@@ -1,12 +1,12 @@
 # Software Ethics
 
-Discussing what ethics means in software.
+Discussing what Ethics means in Software.
 
 See also:
 
-* The [GitHub wiki](https://github.com/borisbaldassari/software-ethics/wiki)
-* [References](References.md) gathered on the topic
-* This attempt to summarise the [attributes of Ethics](EthicsAttributes.md).
+* Participate to the [GitHub wiki](https://github.com/borisbaldassari/software-ethics/wiki)
+* Check out the [References](References.md) gathered on the topic.
+* Checkout this attempt to summarise the [attributes of Ethics](EthicsAttributes.md).
 
 ## What is this?
 
