@@ -1,6 +1,6 @@
-# Software Ethics
+# Discussing Ethics in Software
 
-Discussing what Ethics means in Software.
+This web site is a place to discuss ethics in software.
 
 See also:
 

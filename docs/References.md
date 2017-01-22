@@ -1,7 +1,7 @@
 
 # References for Ethics in Software
 
-# State of the art
+## State of the art
 
 * Open code of conduct (now discontinued): http://todogroup.org/opencodeofconduct/
 * Opensource.com article: https://opensource.com/article/16/12/yearbook-open-source-diversity-efforts
@@ -12,7 +12,7 @@
 * An Introduction to Software Engineering Ethics: https://www.scu.edu/media/ethics-center/technology-ethics/Students.pdf
 * Typical issues encountered by developers. Not all are good, but a few are: http://www.infoworld.com/article/2607452/application-development/12-ethical-dilemmas-gnawing-at-developers-today.html
 
-## Companies
+### Companies
 
 * Amazon Code of Business Conduct and Ethics: http://phx.corporate-ir.net/phoenix.zhtml?c=97664&p=irol-govConduct
 * Apple: http://www.apple.com/supplier-responsibility/
@@ -25,7 +25,7 @@
     * Developer code of conduct: https://msdn.microsoft.com/en-us/library/windows/apps/dn764941.aspx
     * Business code of conduct: http://www.intel.com/content/www/us/en/policy/policy-code-conduct-corporate-information.html
 
-## Communities
+### Communities
 
 * ACM: http://www.acm.org/about/se-code
 * Apache 
@@ -35,13 +35,13 @@
 * GitHub (outdated): https://github.com/blog/2039-adopting-the-open-code-of-conduct
 * Eclipse code of conduct: https://wiki.eclipse.org/Eclipse_Code_of_Conduct
 
-## Other iniatives
+### Other iniatives
 
 See the [[OpenLetter]]
 
-# Use cases
+## Use cases
 
-## Killer robots
+### Killer robots
 
 A recent European law authorises systems to fire automatically, i.e. without a human in the loop. The baseline is that there is a developer involved in the code, so the program itself has a human in the loop.. IMHO, that's big.
 
