@@ -28,34 +28,9 @@
 ### Communities
 
 * ACM: http://www.acm.org/about/se-code
-* Apache 
+* Apache
     * Code of conduct: https://www.apache.org/foundation/policies/conduct
     * Apache dev mailing list diversity survey: https://cwiki.apache.org/confluence/display/COMDEV/ASF+Committer+Diversity+Survey+-+2016
     * Apache dev mailing list diversity survey: https://cwiki.apache.org/confluence/display/COMDEV/ASF+Committer+Diversity+Survey+-+2016
 * GitHub (outdated): https://github.com/blog/2039-adopting-the-open-code-of-conduct
 * Eclipse code of conduct: https://wiki.eclipse.org/Eclipse_Code_of_Conduct
-
-### Other iniatives
-
-See the [[OpenLetter]]
-
-## Use cases
-
-### Killer robots
-
-A recent European law authorises systems to fire automatically, i.e. without a human in the loop. The baseline is that there is a developer involved in the code, so the program itself has a human in the loop.. IMHO, that's big.
-
-http://hir.harvard.edu/growing-international-movement-killer-robots/
-
-This is in Dutch the official governments position on human-in-the-loop for autonomous weapon systems in which it is argues that if the targeting is programmed by a human being this counts as sufficient “human in the wider loop” and should be acceptable. It’s an official letter from the minister of foreign affairs to the government of the Netherlands responding to the opposition's questions regarding our position in the matter.
-
-https://files.slack.com/files-pri/T39C2F56Z-F3Q1NQ96H/kamerbrief-over-kabinetsreactie-op-aiv-cavv-advies-autonome-wapensystemen-de-noodzaak-van-betekenisvolle-menselijke-controle__1_.pdf
-
-Autonomous Weapons: an Open Letter from AI & Robotics Researchers
- 
-http://futureoflife.org/open-letter-autonomous-weapons/
-
-The Super Aegis II, from DoDAMM Systems Ltd 
-http://www.dodaam.com/eng/sub2/menu2_1_4.php
-
-A BBC article on the Super Aegis II: http://www.bbc.com/future/story/20150715-killer-robots-the-soldiers-that-never-sleep
