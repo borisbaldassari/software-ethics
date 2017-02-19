@@ -54,3 +54,8 @@ https://files.slack.com/files-pri/T39C2F56Z-F3Q1NQ96H/kamerbrief-over-kabinetsre
 Autonomous Weapons: an Open Letter from AI & Robotics Researchers
  
 http://futureoflife.org/open-letter-autonomous-weapons/
+
+The Super Aegis II, from DoDAMM Systems Ltd 
+http://www.dodaam.com/eng/sub2/menu2_1_4.php
+
+A BBC article on the Super Aegis II: http://www.bbc.com/future/story/20150715-killer-robots-the-soldiers-that-never-sleep
