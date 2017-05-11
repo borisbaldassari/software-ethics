@@ -7,6 +7,8 @@ navi_name: Thoughts
 
 Ethics: treat others as you would like to be treated.
 
+Code of ethics is for business and decision-making, code of conduct is for actions and behaviour. https://www.whistleblowersecurity.com/blog/code-of-ethics-and-code-of-conduct-whats-the-difference
+
 
 Has several aspects:
 
@@ -22,12 +24,3 @@ Leading characteristics:
 * be responsible
 * be positive
 * be brave: be straight, don't cheat
-
-
-For software developers:
-
-* support your community
-* don't cheat
-* transparency: governance of projects, publish reports, don't hide anything
-
-Code of ethics is for business and decision-making, code of conduct is for actions and behaviour. https://www.whistleblowersecurity.com/blog/code-of-ethics-and-code-of-conduct-whats-the-difference
