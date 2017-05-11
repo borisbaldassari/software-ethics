@@ -8,7 +8,3 @@ navi_name: Use cases
 ## Killer robots
 
 # Corner cases
-
-# Toward a manifesto
-
-The aforementioned references show unwritten manifesto
