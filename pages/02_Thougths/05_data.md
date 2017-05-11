@@ -1,7 +1,7 @@
 title: Ethics in Software - Data
-navi_name: Data
+navi_name: Data 
 
-# Data
+# Data ethics
 
 ## Privacy
 

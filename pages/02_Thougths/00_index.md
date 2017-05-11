@@ -1,8 +1,7 @@
 title: Ethics in Software - Thoughts
 navi_name: Thoughts
 
-# Thoughts
-
+# The implications of developping software
 
 ## Code of conduct
 
@@ -24,11 +23,11 @@ Leading characteristics:
 * be positive
 * be brave: be straight, don't cheat
 
-C'est dans l'adversité que l'on reconnaît la qualité d'un Homme.
-
 
 For software developers:
 
 * support your community
-* don't sheat
-* transparency: publish reports, don't hide anything
+* don't cheat
+* transparency: governance of projects, publish reports, don't hide anything
+
+Code of ethics is for business and decision-making, code of conduct is for actions and behaviour. https://www.whistleblowersecurity.com/blog/code-of-ethics-and-code-of-conduct-whats-the-difference
