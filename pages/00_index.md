@@ -10,10 +10,26 @@ Because it's kind of a personal and somewhat delicate matter, because we praise 
 
 I am not talking about contracts, licenses or law suites. I am talking about what we, as a community of software practitionners, think and do with ethics. What it means for us, for our community, for our behaviour, for the code we write and for the services and support we provide. Because it has an impact. And we should feel somewhat responsible for it.
 
-**Today we, as developers, have a humongous responsibility towards users, humans, and the future.** This needs to be discussed and further considered.
+**Today we, as developers, have a humongous responsibility towards users, humans, and the future.**
+
+This needs to be discussed and further considered.
+
+This web site presents some thoughts and references about ethics in software in general, and for software practitionners more specifically. Its intent is to provide material for discussions, talks, articles, blog entries..
 
 -----
 
-This web site presents some thoughts and references about ethics in software in general, and for software practitionners more specifically. Its intent is to provide some material for discussions, talks, articles, blog entries..
+<div class="row">
+  <div class="col-lg-4">
+    <i class="fa fa-search fa-2x"></i> &nbsp; <a href="thoughts/">Thoughts</a>
+  </div>
+  <div class="col-lg-4">
+    <i class="fa fa-newspaper-o fa-2x"></i> &nbsp; <a href="references/">References</a>
+  </div>
+  <div class="col-lg-4">
+    <i class="fa fa-folder fa-2x"></i> &nbsp; <a href="use_cases/">Use cases</a>
+  </div>
+</div>
+
+-----
 
 [Contributions](about.html) are welcome, and the source code of the web site is hosted on github.
