@@ -4,22 +4,19 @@ navi_name: References
 
 # References
 
-## Free software principles
-
-Richard Stallman, four essential freedoms:
-
-* The freedom to run the program as you wish, for any purpose (freedom 0).
-* The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
-* The freedom to redistribute copies so you can help your neighbor (freedom 2).
-* The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+This section gathers references, links to original material, analysis and downloads. Traceability of information and reproducibility of analysis are two important things to fight against <del>lies</del> alternative truths and facts.
 
 
-## Experience reports
+## Hacker's ethics
 
-> It’s difficult to get a man to understand something when his salary depends on his not understanding it.
+We call Hacker's ethics the spirit of first-generation hackers. It is mostly based on freedom, openness and security.
 
-From Upton Sinclair, see https://medium.com/@aarijmerchant/thank-you-for-sharing-your-experience-fc67bfc447c0
 
-### The code I’m still ashamed of
+## Examples
 
-https://medium.freecodecamp.com/the-code-im-still-ashamed-of-e4c021dff55e
+Most companies nowadays publish a code of conduct and/or code of ethics.
+
+
+## Data show
+
+Downloads, visualisations and data-oriented articles about ethics, diversity, etc.

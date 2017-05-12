@@ -1,5 +1,5 @@
 title: Ethics in Software - Data
-navi_name: Data 
+navi_name: Data
 
 # Data ethics
 
@@ -8,3 +8,5 @@ navi_name: Data
 Anonymisation
 
 ## Integrity
+
+## The case of data breaches
