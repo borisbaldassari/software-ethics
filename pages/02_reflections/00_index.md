@@ -1,5 +1,5 @@
-title: Ethics in Software - Thoughts
-navi_name: Thoughts
+title: Ethics in Software - Reflections
+navi_name: Reflections
 
 # The implications of developing software
 
