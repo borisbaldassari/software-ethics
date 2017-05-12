@@ -13,8 +13,6 @@ Code of ethics is for business and decision-making, code of conduct is for actio
 
 From Upton Sinclair, see https://medium.com/@aarijmerchant/thank-you-for-sharing-your-experience-fc67bfc447c0
 
-[How to hack the upcoming Dutch elections](https://sijmen.ruwhof.net/weblog/1166-how-to-hack-the-upcoming-dutch-elections)
-
 ## Community ethics
 
 How do we behave, communicate and act in and across communities.
