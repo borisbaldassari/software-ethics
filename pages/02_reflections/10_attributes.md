@@ -14,7 +14,7 @@ Main words: care, respect, foster and protect.
 * Code
     * Write readable, maintainable code.
     * Protect your users. Care about data, privacy and integrity.
-    * Try to be full-proof. Defensive programming.
+    * Try to be fool-proof. Defensive programming.
 
 ## Diversity
 
