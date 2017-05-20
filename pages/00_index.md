@@ -19,14 +19,11 @@ This web site presents some thoughts and references about ethics in software in 
 -----
 
 <div class="row">
-  <div class="col-lg-4">
+  <div class="col-lg-6">
     <i class="fa fa-search fa-2x"></i> &nbsp; <a href="reflections/">Reflections</a>
   </div>
-  <div class="col-lg-4">
+  <div class="col-lg-6">
     <i class="fa fa-newspaper-o fa-2x"></i> &nbsp; <a href="references/">References</a>
-  </div>
-  <div class="col-lg-4">
-    <i class="fa fa-folder fa-2x"></i> &nbsp; <a href="use_cases/">Use cases</a>
   </div>
 </div>
 
