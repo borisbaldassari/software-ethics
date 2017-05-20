@@ -5,6 +5,15 @@ navi_name: Community
 
 ## Core values
 
+Main words: care, respect, foster and protect.
+
+
+Treat others as you would like to be treated.
+
+* Community
+    * Diversity: whatever the colour, beliefs, political views, sexual orientation.
+    * Respect: treat strangers as you would like to be treated.
+    * Positivism: be positive. When you say no, also say why. Don't build against; if you don't like it, build a better system.
 
 
 ## Respect
