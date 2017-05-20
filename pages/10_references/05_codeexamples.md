@@ -4,9 +4,21 @@ navi_name: Codes of conduct
 
 # Examples of codes of conduct
 
+Code of ethics is for business and decision-making, code of conduct is for actions and behaviour. https://www.whistleblowersecurity.com/blog/code-of-ethics-and-code-of-conduct-whats-the-difference
+
+
+## Open code of conduct
+
+Now discontinued
+
+  * Official web site: http://todogroup.org/opencodeofconduct/
+  * GitHub (outdated): https://github.com/blog/2039-adopting-the-open-code-of-conduct
+
+
 ## IETF
 
 * IETF has a working group on [Human Rights Protocol Considerations](https://datatracker.ietf.org/rg/hrpc/about/). It was last updated on Last updated 		2015-11-30.
+
 
 ## Companies
 
@@ -20,6 +32,7 @@ navi_name: Codes of conduct
     * Opensource code of conduct: https://opensource.microsoft.com/codeofconduct/
     * Developer code of conduct: https://msdn.microsoft.com/en-us/library/windows/apps/dn764941.aspx
     * Business code of conduct: http://www.intel.com/content/www/us/en/policy/policy-code-conduct-corporate-information.html
+
 
 ## Communities
 

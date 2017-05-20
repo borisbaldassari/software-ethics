@@ -31,16 +31,17 @@ Steven Levy https://en.wikipedia.org/wiki/Hacker_ethic
 
 > Levy, Steven. 1984. Hackers: Heroes of the Computer Revolution, Anchor Press/Doubleday, Garden City, NY, 458 pp.
 
+
 ## Pekka Himanen (2002)
 
-[The Hacker Ethic and the Spirit of the Information Age.][himanem2002].
+[The Hacker Ethic and the Spirit of the Information Age][himanem2002].
 
 
 ## Old and new hacker ethics
 
 http://www2.fiu.edu/~mizrachs/hackethic.html
 
-1. Above all else, do no har
+1. Above all else, do no harm
 2. Protect Privacy
 3. Waste not, want not
 4. Exceed Limitations
@@ -54,3 +55,14 @@ http://www2.fiu.edu/~mizrachs/hackethic.html
 
 [levy1984]:     http://courses.cs.vt.edu/professionalism/WorldCodes/Hackers.Code.html
 [himanem2002]:  https://wiki.p2pfoundation.net/Hacker_Ethic
+
+
+## Modern Hackers
+
+https://riseup.net
+
+https://riseup.net/en/security/resources/radical-servers
+
+https://www.laquadrature.net/fr/
+
+https://degooglisons-internet.org/?l=en
