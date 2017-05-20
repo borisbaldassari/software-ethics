@@ -1,7 +1,8 @@
-title: Ethics in Software - Data
-navi_name: Code
+title: Development
+navi_name: Development
 
-# Code ethics
+
+# Development ethics
 
 
 For software developers:
@@ -9,6 +10,10 @@ For software developers:
 * support your community
 * don't cheat
 * transparency: governance of projects, publish reports, don't hide anything
+* Write readable, maintainable code.
+* Protect your users. Care about data, privacy and integrity.
+* Try to be fool-proof. Defensive programming.
+
 
 References:
 
