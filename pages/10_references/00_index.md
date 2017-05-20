@@ -12,9 +12,14 @@ This section gathers references, links to original material, analysis and downlo
 We call Hacker's ethics the spirit of first-generation hackers. It is mostly based on freedom, openness and security.
 
 
-## Examples
+## Codes of conduct
 
 Most companies nowadays publish a code of conduct and/or code of ethics.
+
+
+## Initiatives
+
+Current initiatives about ethics, self-organisation, philosophy.
 
 
 ## Data show
