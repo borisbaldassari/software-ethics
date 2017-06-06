@@ -14,6 +14,7 @@ For software developers:
 * Protect your users. Care about data, privacy and integrity.
 * Try to be fool-proof. Defensive programming.
 
+> Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
 
 References:
 

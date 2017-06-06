@@ -15,8 +15,17 @@ Treat others as you would like to be treated.
     * Respect: treat strangers as you would like to be treated.
     * Positivism: be positive. When you say no, also say why. Don't build against; if you don't like it, build a better system.
 
+Include a mechanism for addressing grievances to prevent abuse of the code of conduct -- see http://citizencodeofconduct.org/ section 8.
+
+
+## Meritocracy
+
+Meritocracy has some drawbacks, notably when people with "merit" are often excused for their bad behavior in public spaces based on the value of their technical contributions. See the [contributor-covenant](http://contributor-covenant.org/) and [this entry](http://geekfeminism.wikia.com/wiki/Meritocracy) on the Geek Feminism wiki.
+
 
 ## Respect
+
+
 
 
 ## Diversity

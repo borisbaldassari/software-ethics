@@ -9,13 +9,14 @@ Code of ethics is for business and decision-making, code of conduct is for actio
 * [Code of ethics and code of conduct: what's the difference?](https://www.whistleblowersecurity.com/blog/code-of-ethics-and-code-of-conduct-whats-the-difference)
 
 
-## Open code of conduct
+## Open codes of conduct
 
-Now discontinued
+* Open Code of Conduct official web site: http://todogroup.org/opencodeofconduct/ (now discontinued)
+* GitHub adoption (outdated): https://github.com/blog/2039-adopting-the-open-code-of-conduct
 
-  * Official web site: http://todogroup.org/opencodeofconduct/
-  * GitHub (outdated): https://github.com/blog/2039-adopting-the-open-code-of-conduct
-
+* Contributor Covenant: http://contributor-covenant.org/
+* Geek Feminism: http://geekfeminism.org/about/code-of-conduct/
+* Citizen Code of Conduct: http://citizencodeofconduct.org/
 
 ## IETF
 
@@ -31,9 +32,9 @@ Now discontinued
 * [IBM ethics and software development](https://www.ibm.com/developerworks/rational/library/may06/pollice/)
 * [Intel code of conduct](http://www.intel.com/content/www/us/en/policy/policy-code-conduct-corporate-information.html)
 * Microsoft:
-    * [Opensource code of conduct](https://opensource.microsoft.com/codeofconduct/)
-    * [Developer code of conduct](https://msdn.microsoft.com/en-us/library/windows/apps/dn764941.aspx)
-    * [Business code of conduct](http://www.intel.com/content/www/us/en/policy/policy-code-conduct-corporate-information.html)
+  * [Opensource code of conduct](https://opensource.microsoft.com/codeofconduct/)
+  * [Developer code of conduct](https://msdn.microsoft.com/en-us/library/windows/apps/dn764941.aspx)
+  * [Business code of conduct](http://www.intel.com/content/www/us/en/policy/policy-code-conduct-corporate-information.html)
 
 
 ## Communities
@@ -43,9 +44,13 @@ Now discontinued
   * [Apache Code of conduct](https://www.apache.org/foundation/policies/conduct)
   * [The Apache Way governance](https://www.apache.org/foundation/governance/)
   * [Apache dev mailing list diversity survey](https://cwiki.apache.org/confluence/display/COMDEV/ASF+Committer+Diversity+Survey+-+2016)
+* Eclipse [code of conduct](https://eclipse.org/org/documents/Community_Code_of_Conduct.php) borrowed from [Contributor-covenant](http://contributor-covenant.org/).
 * GitHub
   * [Code of conduct](https://githubuniverse.com/2016/code-of-conduct/) for GitHubUniverse (2016 conference)
-* [Eclipse code of conduct](https://wiki.eclipse.org/Eclipse_Code_of_Conduct)
+  * GitHub has some documentation on how to [build your community](https://help.github.com/categories/building-a-strong-community/), and proposes a [simple way to adopt a code of conduct](https://help.github.com/articles/adding-a-code-of-conduct-to-your-project/) for your project.
+* Django: https://www.djangoproject.com/conduct/
+* Python: https://www.python.org/community/diversity/
+* Ubuntu: http://www.ubuntu.com/about/about-ubuntu/conduct
 
 
 ## Misc examples:
@@ -58,3 +63,12 @@ Here are some quotes:
 * Be collaborative
 * Ask for help when unsure
 * Step down considerately
+
+----
+
+[This code of conduct](https://gist.github.com/remy/4016972) is targeted at a conference event. It is interesting to note the addendum on tweets, that must follow the same rules.
+> Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
+
+----
+
+This [code of conduct](http://code-of-conduct.voxmedia.com/) governs the environment of the Vox Product team. We created it not because we anticipate bad behavior, but because we believe that articulating our values and obligations to one another reinforces the already exceptional level of respect among the team and because having a code provides us with clear avenues to correct our culture should it ever stray from that course.
