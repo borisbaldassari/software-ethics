@@ -16,17 +16,17 @@ This needs to be discussed and further considered.
 
 This web site presents some thoughts and references about ethics in software in general, and for software practitionners more specifically. Its intent is to provide material for discussions, talks, articles, blog entries..
 
------
-
-<div class="row">
-  <div class="col-lg-6">
-    <i class="fa fa-search fa-2x"></i> &nbsp; <a href="reflections/">Reflections</a>
-  </div>
-  <div class="col-lg-6">
-    <i class="fa fa-newspaper-o fa-2x"></i> &nbsp; <a href="references/">References</a>
-  </div>
-</div>
+[Contributions](/about.html) are welcome, and the source code of the web site is hosted on github.
 
 -----
 
-[Contributions](about.html) are welcome, and the source code of the web site is hosted on github.
+## Presentations, talks, articles.
+
+This project also serves a number of talks, articles, materials related to software ethics:
+
+* [Why you should care about software ethics](https://www.eclipsecon.org/europe2016/session/heres-why-you-should-care-about-ethics-software-development) [ EclipseCon Europe 2016 ]
+* [Ethics in Network Measurements ](https://archive.fosdem.org/2017/schedule/event/network_measurement_ethics/) [ Fosdem 2017 ]
+* [Ethics in Software](/talks/2017_eclipsecon_france/index.html) [ EclipseCon France 2017 ]
+* [Ethics in Software](/talks/2017_eclipsecon_europe/index.html) [ EclipseCon Europe 2017 ]
+
+Want to add a reference or host material for another event? [Get in touch](/contact.html), or [create a pull request](https://github.com/borisbaldassari/software-ethics)!
