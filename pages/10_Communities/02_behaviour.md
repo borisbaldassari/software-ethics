@@ -20,7 +20,7 @@ Ready-to-use templates to help people set up easily a code of conduct for their 
 
 ### A code of conduct for conferences
 
-[This code of conduct](https://gist.github.com/remy/4016972) is targeted at a conference event. It is interesting to note the addendum on tweets, that must follow the same rules.
+[This code of conduct](https://github.com/confcodeofconduct/confcodeofconduct.com) is targeted at a conference event. It is interesting to note the addendum on tweets, that must follow the same rules.
 
 > Our conference is dedicated to providing a harassment-free conference experience for everyone, regardless of gender, sexual orientation, disability, physical appearance, body size, race, or religion. We do not tolerate harassment of conference participants in any form. Sexual language and imagery is not appropriate for any conference venue, including talks, workshops, parties, Twitter and other online media. Conference participants violating these rules may be sanctioned or expelled from the conference without a refund at the discretion of the conference organisers.
 
