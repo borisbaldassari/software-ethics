@@ -19,7 +19,7 @@ Killer robots, or autonomous weapons, are weapons that can decide by themselves 
 * [Killer robots: the soldiers that never sleep](http://www.bbc.com/future/story/20150715-killer-robots-the-soldiers-that-never-sleep) (BBC, 2015).
 * [The perverse rise of autonomous killer robots](http://www.japantimes.co.jp/opinion/2015/10/16/commentary/world-commentary/perverse-rise-autonomous-killer-robots) (2015-10 Japan Times).
 * [Attack of the Killer Robots](https://www.buzzfeed.com/sarahatopol/how-to-save-mankind-from-the-new-breed-of-killer-robots): a long and interesting read to understand how we got there.
-
+* Another long interesting read on [Autonomous Military Robotics: Risk, Ethics, and Design](http://ethics.calpoly.edu/onr_report.pdf)
 
 ### Existing robots
 
